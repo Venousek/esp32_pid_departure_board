@@ -1,0 +1,5 @@
+sh1106.py
+secrets.py
+*.bin
+settings.json
+__pycache__/
